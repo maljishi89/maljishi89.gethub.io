@@ -1,0 +1,1 @@
+{ "name": "Hello World", "short_name": "Hello", "lang": "en-US", "start_url": "/index.html", "display": "standalone", "background_color": "white", "theme_color": "white"}
